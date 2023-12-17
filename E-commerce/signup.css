@@ -1,0 +1,39 @@
+
+
+form{
+    background-color: #1c0909;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 2px solid #2980b9;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  .welcomePage {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+  }
+  img{
+    margin-left: 500px;
+    height: 200px;
+    width: 200px;
+  }
+  
